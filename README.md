@@ -1,4 +1,4 @@
-# DataEngineer
+# ICA
 Objective : Build a classifier with iterative classification algorithm to identify the new label for an item based on its neighbor.
 Data : List of documents with domain label and its citations 
 
